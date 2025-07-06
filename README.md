@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="150">
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="75">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%2309F7E9&size=29&center=true&vCenter=true&width=700&height=50&lines=Hola,+soy+Gustavo+Morillo!+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica;Apasionado+por+el+Backend+y+los+Videojuegos;Entusiasta+de+la+Automatizaci%C3%B3n+%F0%9F%9A%80" alt="Headline" />
