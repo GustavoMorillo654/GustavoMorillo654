@@ -13,7 +13,7 @@
         <br>
         <p>
             <strong>
-                Estudiante de Ingeniería en Informática (5to semestre), apasionado por la programación moderna, el desarrollo de APIs, los videojuegos y la automatización de procesos.<br><br>
+                Estudiante de Ingeniería en Informática (8vo semestre), apasionado por la programación moderna, el desarrollo de APIs, los videojuegos y la automatización de procesos.<br><br>
                 Me especializo en Python con frameworks como Django y FastAPI, y cuento con una base sólida en C++, Java y C. Mi objetivo es construir soluciones eficientes y escalables, tanto en el backend como en aplicaciones interactivas.<br><br>
                 Soy detallista, responsable y comprometido, con un espíritu de entregar productos de alta calidad a tiempo. Aprendo rápido, soy auto-motivado y me gusta colaborar en equipo.
             </strong>
