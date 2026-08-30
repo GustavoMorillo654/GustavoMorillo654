@@ -63,7 +63,6 @@
 
 <div align="center">
     <h2>📊 Estadísticas de GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=GustavoMorillo654&title_color=09F7E9&text_color=FFFFFF&show_icons=true&icon_color=09F7E9&include_all_commits=true&count_private=true&theme=dark" alt="Estadísticas de GitHub de Gustavo" height="185" />
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoMorillo654&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=09F7E9&fire=09F7E9&ring=09F7E9" alt="Racha de GitHub de Gustavo" height="185" />
 </div>
